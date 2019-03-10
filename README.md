@@ -1,18 +1,14 @@
-# Unit 2 | Assignment - The VBA of Wall Street
+# The VBA of Wall Street
 
 ## Background
 
-You are well on your way to becoming a programmer and Excel master! In this homework assignment you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, choose your assignment from Easy, Moderate, or Hard below.
+Using VBA scripting to analyze real stock market data. 
 
 ### Files
 
 * [Test Data](Resources/alphabtical_testing.xlsx) - Use this while developing your scripts.
 
 * [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
-
-### Stock market analyst
-
-![stock Market](Images/stockmarket.jpg)
 
 ### Easy
 
@@ -21,8 +17,6 @@ You are well on your way to becoming a programmer and Excel master! In this home
 * You will also need to display the ticker symbol to coincide with the total volume.
 
 * Your result should look as follows (note: all solution images are for 2015 data).
-
-![easy_solution](Images/easy_solution.png)
 
 ### Moderate
 
@@ -40,8 +34,6 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * The result should look as follows.
 
-![moderate_solution](Images/moderate_solution.png)
-
 ### Hard
 
 * Your solution will include everything from the moderate challenge.
@@ -49,8 +41,6 @@ You are well on your way to becoming a programmer and Excel master! In this home
 * Your solution will also be able to locate the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
 
 * Solution will look as follows.
-
-![hard_solution](Images/hard_solution.png)
 
 ### CHALLENGE
 
@@ -64,18 +54,4 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * Make sure that the script acts the same on each sheet. The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button.
 
-## Submission
-
-* To submit please upload the following to Github:
-
-  * A screen shot for each year of your results on the Multi Year Stock Data.
-
-  * VBA Scripts as separate files.
-
-* After everything has been saved, create a sharable link and submit that to <https://bootcampspot-v2.com/>.
-
-- - -
-
-### Copyright
-
-Coding Boot Camp © 2018. All Rights Reserved.
+### Please note: I've added a progress bar to show the completion status of the macro, and the form (progress.frm) it uses is included with my submission. Be sure to import the form so that macro will work properly.
